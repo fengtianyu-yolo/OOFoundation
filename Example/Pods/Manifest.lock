@@ -1,0 +1,16 @@
+PODS:
+  - OOFoundation (0.1.0)
+
+DEPENDENCIES:
+  - OOFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  OOFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OOFoundation: 85bde95b3ecb61c164dcf5c389ee57369975a329
+
+PODFILE CHECKSUM: 289217728be08ee6eb4b16bc560131f9cf3ed977
+
+COCOAPODS: 1.12.1

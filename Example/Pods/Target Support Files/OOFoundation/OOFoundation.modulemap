@@ -1,0 +1,6 @@
+framework module OOFoundation {
+  umbrella header "OOFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
