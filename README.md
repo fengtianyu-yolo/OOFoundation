@@ -1,13 +1,8 @@
 # OOFoundation
 
-[![CI Status](https://img.shields.io/travis/fengtianyu/OOFoundation.svg?style=flat)](https://travis-ci.org/fengtianyu/OOFoundation)
-[![Version](https://img.shields.io/cocoapods/v/OOFoundation.svg?style=flat)](https://cocoapods.org/pods/OOFoundation)
-[![License](https://img.shields.io/cocoapods/l/OOFoundation.svg?style=flat)](https://cocoapods.org/pods/OOFoundation)
-[![Platform](https://img.shields.io/cocoapods/p/OOFoundation.svg?style=flat)](https://cocoapods.org/pods/OOFoundation)
+* 属性包装器
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+* 串行网络请求实现方式
 
 ## Requirements
 
